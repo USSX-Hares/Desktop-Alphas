@@ -1,4 +1,6 @@
 # Alphas
+
+[![Join the chat at https://gitter.im/BattleScribe/Alphas](https://badges.gitter.im/BattleScribe/Alphas.svg)](https://gitter.im/BattleScribe/Alphas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 BattleScribe Alpha Bug Tracking
 
 **Download and Changelog:** https://github.com/BattleScribe/Alphas/issues/1

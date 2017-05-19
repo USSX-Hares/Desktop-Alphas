@@ -1,6 +1,6 @@
 # Alphas
 
-**Download and Changelog:** https://github.com/BattleScribe/Desktop-Alphas/issues/1
+**Download and Changelog:** https://github.com/BattleScribe/Desktop-Alphas/issues/133
 
 **Issue Tracker:** https://github.com/BattleScribe/Desktop-Alphas/issues
 
